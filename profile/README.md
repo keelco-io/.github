@@ -1,4 +1,4 @@
-## Steady the Course, Accelerate your Success.
+# Steady the Course, Accelerate your Success
 
 Welcome to Keel Consulting, your partner in Software Delivery and Operational Excellence.
 
